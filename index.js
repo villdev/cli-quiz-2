@@ -29,6 +29,7 @@ function clg(value) {
   console.log(value);
 }
 
+console.clear();
 
 //intro string
 clg(`${chalk.bold.cyanBright("Hi!")}\n\nWelcome to this quiz on "${chalk.yellowBright.underline("BOOKS")}\"`);
