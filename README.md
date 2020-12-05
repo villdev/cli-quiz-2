@@ -1,4 +1,4 @@
-# Do you know me? CLI Quiz App
+# Books CLI Quiz App
 
 Command line quiz app built using NodeJS based on the topic books. Created with the help of readline-sync, chalk and boxen npm packages. Contains true and false questions with no negative marking. Score updation is shown dynamically as the quiz progresses. 
 
